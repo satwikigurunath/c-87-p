@@ -1,1 +1,2 @@
-# c-87-p
+# spectagram-stage-7
+project solution for c87
